@@ -1,0 +1,74 @@
+.homepage {
+	margin: 75px;
+	font-size: 50px;
+	font-family: 'Shrikhand', cursive;
+	color: #EEC82D;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #EEC82D;
+}
+
+h1 {
+	font-size: 50px;
+	color: #0900FC;
+	text-align: left;
+	margin-top: 75px;
+	margin-left: 75px;
+	font-family:'Shrikhand', cursive;
+}
+
+.about {
+	font-size: 25px;
+	color: #EEC82D;
+	text-align: left;
+	margin-left: 75px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.title {
+	font-size: 20px;
+	color: #EEC82D;
+	font-family:'Raleway', sans-serif;
+	text-align: center;
+	padding-left: 40px;
+}
+
+.kensebeskyimg {
+	width: 250px;
+	height: 250px;
+	border: 3px solid #4978FA;
+}
+
+.guitarbarimg {
+	width: 250px;
+	height: 250px;
+	border: 3px solid #4978FA;
+}
+
+.isabelleimg {
+	width: 250px;
+	height: 250px;
+	border: 3px solid #4978FA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
